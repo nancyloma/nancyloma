@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://media1.tenor.com/images/782061bd0e1bbc67a93ddab9272ddb16/tenor.gif?itemid=10139342" width="500" height="400" />
 
 
-## I'm a Software Tester, Developer, Freelancer, Mother
+## I'm a Software Tester, Developer, Freelancer
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on..Vs Code
 - 🌱 I’m currently learning Automation Testing & Docker
