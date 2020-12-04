@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Nancy🦄🧡</h2>
 <h6 align="center">A Software Tester from Thailand</h6>
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media1.tenor.com/images/782061bd0e1bbc67a93ddab9272ddb16/tenor.gif?itemid=10139342" width="500" height="400" />
 
 
 ## I'm a Software Tester, Developer, Freelancer, Mother
