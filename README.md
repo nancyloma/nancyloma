@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Nancy</h2>
+<h2 align="center">Hi 👋, I'm Nancy🦄🧡</h2>
 <h6 align="center">A Software Tester from Thailand</h6>
 
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="500" height="320" />
