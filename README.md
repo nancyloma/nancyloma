@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Nancy🦄🧡</h2>
-<h6 align="center">A Software Tester from Thailand</h6>
+<h2 align="center">Hi everyone👋, I'm Nancy 🦄🧡</h2>
+<h6 align="center">A Software Tester from Thailand </h6>
 
  <img align="right" alt="GIF" src="https://media1.tenor.com/images/782061bd0e1bbc67a93ddab9272ddb16/tenor.gif?itemid=10139342" width="500" height="400" />
 
@@ -7,11 +7,11 @@
 ## I'm a Software Tester, Developer, Freelancer
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on..Vs Code
-- 🌱 I’m currently learning Automation Testing & Docker
+- 🌱 I'm currently learning English as a second language. and practice coding challenges to improve my problem solving skills.
 - 👯 I’m looking to collaborate on ...Open source projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: Technology is magic and I’m a witch. 🦋✨
 
 
 ### Talk with me, I am kinda awesome:
@@ -31,7 +31,8 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-
+[<img align="left" alt="go" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"/>
+[youtube]
 
 <br />
 <br />
