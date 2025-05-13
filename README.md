@@ -1,5 +1,5 @@
-<h2 align="center">Hi everyone👋, I'm Nancy 🦄🧡</h2>
-<h6 align="center">A Software Tester from Thailand </h6>
+<h2 align="center">Hi everyone👋, I'm Nannie 🦄🧡</h2>
+<h6 align="center">A QA from Thailand </h6>
 
  <img align="right" alt="GIF" src="https://media1.tenor.com/images/782061bd0e1bbc67a93ddab9272ddb16/tenor.gif?itemid=10139342" width="500" height="400" />
 
